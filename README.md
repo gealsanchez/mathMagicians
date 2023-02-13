@@ -57,7 +57,10 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Math Magicians] <a name="about-project"></a>
 
 
-**[Math Magicians]** The JavaScript capstone project is about building a web application based on an external API that provides data about meals. The webapp have 2 interfaces.
+**[Math Magicians]** "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+
+Make simple calculations.
+Read a random math-related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 
