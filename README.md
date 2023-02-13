@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <h3><b>Math Magicians</b></h3>
@@ -43,47 +21,49 @@ After you're finished please remove all the comments and instructions!
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 Math-Magicians <a name="about-project"></a>
 
-
-**[Math Magicians]** "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-
-Make simple calculations.
-Read a random math-related quote.
+**Math-Magicians** is a Single Page Application (SPA), built with React, that allows users to make simple calculations and read a math-related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- React
+ - HTML
+ - CSS
+ - JavaScript
+ - React
+ - Webpack
 
-<!-- Features -->
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-- **[React]**
+- **Single Page Application**
+- **Make simple calculations**
+- **Displays a math_related quote**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://gealsanchez.github.io/mathMagicians)
-                    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -92,69 +72,41 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- node.js
+- git
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-```sh
-  cd my-folder
-  git clone [https://github.com/gealsanchez/mathMagicians.git]
-```
+- Open your terminal
+
+- Navigate to the directory where you want to clone the project.
+
+- Clone the project using by running the following command:
+
+`git clone https://github.com/gealsanchez/mathMagicians.git`
 
 ### Install
 
-Install this project with:
+Install this project using the following command: 
 
-```sh
-  cd my-folder
-  npm install
-```
+`npm install`.
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following commands:
 
-```sh
-  cd my-folder
-  npm start
-```
+- `npm run build`
+- `npm start`
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+`npm test`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -166,7 +118,12 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Scientific calculation feature can be added**
+- **Neumorphism style on calculator can be added**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -176,29 +133,25 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
