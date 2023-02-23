@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Calculator component 1`] = `
+<DocumentFragment>
+  <section
+    class="calc-section"
+  >
+    <h2>
+      Lets do some math!
+    </h2>
+    <div
+      class="calc-container"
+    >
+      <div
+        class="calc-display"
+      >
+        <span
+          class="calc-result"
+        >
+          0
+        </span>
+      </div>
+      <div
+        class="calc-keypad"
+      >
+        <button
+          class="calc-button"
+          type="button"
+        >
+          AC
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          +/-
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          %
+        </button>
+        <button
+          class="calc-button bckg-orange"
+          type="button"
+        >
+          /
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          7
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          8
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          9
+        </button>
+        <button
+          class="calc-button bckg-orange"
+          type="button"
+        >
+          x
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          4
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          5
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          6
+        </button>
+        <button
+          class="calc-button bckg-orange"
+          type="button"
+        >
+          -
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          1
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          2
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          3
+        </button>
+        <button
+          class="calc-button bckg-orange"
+          type="button"
+        >
+          +
+        </button>
+        <button
+          class="calc-button two-space-width"
+          type="button"
+        >
+          .
+        </button>
+        <button
+          class="calc-button"
+          type="button"
+        >
+          0
+        </button>
+        <button
+          class="calc-button bckg-orange"
+          type="button"
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;
