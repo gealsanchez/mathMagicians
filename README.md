@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://dev--musical-meerkat-272626.netlify.app/quote)
+- [Live Demo Link](https://dev--musical-meerkat-272626.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
