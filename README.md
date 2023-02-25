@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://gealsanchez.github.io/mathMagicians)
+- [Live Demo Link](https://dev--musical-meerkat-272626.netlify.app/quote)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
